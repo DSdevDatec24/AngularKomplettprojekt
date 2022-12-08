@@ -1,0 +1,13 @@
+Services: 
+
+Dependency Injection: 
+
+Routing: um eine URL zu ändern ( /user, /account etc.)
+
+Observables: Datenquelle (z.B. Events, Userinputs, HTTP-Requests, Trigger, BTN Klick), 
+Observer: ist z.B mein Code der ausgeführt wird, die Subscribe function bsp, für asynchrone Aufgaben
+
+RXJS: Library für Asynchrone und Eventbasierte Aufgaben mit Observables und LINQ Abfragen
+
+Forms: form -> label -> input braucht: value: 'Name', 'test@test.de' ob wahr oder falasch
+Pipes: ändern die Ausgabe

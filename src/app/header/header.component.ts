@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
+  // macht, dass dieses Event, von anderen Componets erreichbar ist
+
 }
